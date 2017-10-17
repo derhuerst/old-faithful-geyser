@@ -1,0 +1,24 @@
+{
+	"name": "old-faithful-geyser",
+	"description": "Testing data with waiting times between eruptions of the Old Faithful Geyser.",
+	"version": "0.1.0",
+	"main": "index.json",
+	"files": [
+		"index.json"
+	],
+	"keywords": [
+		"dataset",
+		"faithful",
+		"old faithful geyser",
+		"data science"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/old-faithful-geyser",
+	"repository": "derhuerst/old-faithful-geyser",
+	"bugs": "https://github.com/derhuerst/old-faithful-geyser/issues",
+	"engines": {
+		"node": ">=4"
+	},
+	"dependencies": {
+	}
+}
